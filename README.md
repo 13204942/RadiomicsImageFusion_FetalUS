@@ -1,12 +1,14 @@
 # RadiomicsImageFusion_FetalUS
 
 ![Proposed fusion framework for GA estimation from fetal ultrasound images](assets/framework.png)
+*Proposed fusion framework for GA estimation from fetal ultrasound images.*
 
 ![Visualization of CNBlock and Cross-attention module](assets/attention.png)
+*Visualization of CNBlock and Cross-attention module.*
 
 ## Citation
 
-If you use SelectGA in your research, please cite our paper:
+If you use our method in your research, please cite our paper:
 
 ```bibtex
 @InProceedings{ WanFan_Fusing_MICCAI2025,
