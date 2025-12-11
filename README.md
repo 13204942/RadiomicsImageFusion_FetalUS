@@ -1,12 +1,8 @@
 # RadiomicsImageFusion_FetalUS
 
-<div align="center">
-  <img width="100%" alt="Proposed fusion framework for GA estimation from fetal ultrasound images" src=".assets/framework.png">
-</div>
+![Proposed fusion framework for GA estimation from fetal ultrasound images](assets/framework.png)
 
-<div align="center">
-  <img width="100%" alt="Visualization of CNBlock and Cross-attention module" src=".assets/attention.png">
-</div>
+![Visualization of CNBlock and Cross-attention module](assets/attention.png)
 
 ## Citation
 
